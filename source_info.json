@@ -1,0 +1,7 @@
+{
+  "dataset": "https://github.com/TN02/Road-Signs-Dataset",
+  "archive_bytes": 1481494296,
+  "archive_sha256": "8ea6cf6d904d99974407c1d893c641cf8ece87c9e73a2128e915a6cc480ba09b",
+  "TN02/Road-Signs-Dataset_commit": "278c9895e06fc29fb0c1189f38f45558fd39fd92",
+  "facebookresearch/dinov2_commit": "7764ea0f912e53c92e82eb78a2a1631e92725fc8"
+}

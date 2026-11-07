@@ -1,0 +1,7 @@
+__pycache__/
+*.pt
+*.joblib
+crops/
+dinov2_source/
+*.zip
+.ipynb_checkpoints/

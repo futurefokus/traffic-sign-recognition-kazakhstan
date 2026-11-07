@@ -1,0 +1,69 @@
+{
+  "baseline": {
+    "accuracy": 0.997867803837953,
+    "macro_f1": 0.9975561259535086
+  },
+  "dinov2_plain": {
+    "accuracy": 0.997867803837953,
+    "macro_f1": 0.99799994999875
+  },
+  "dinov2_augmented": {
+    "accuracy": 0.997867803837953,
+    "macro_f1": 0.99799994999875
+  },
+  "conditions": {
+    "dark": {
+      "plain": {
+        "accuracy": 0.9936034115138592,
+        "macro_f1": 0.9935642789405689
+      },
+      "augmented": {
+        "accuracy": 0.997867803837953,
+        "macro_f1": 0.9975451211097794
+      }
+    },
+    "blur": {
+      "plain": {
+        "accuracy": 0.9957356076759062,
+        "macro_f1": 0.9960000000000001
+      },
+      "augmented": {
+        "accuracy": 0.9957356076759062,
+        "macro_f1": 0.9959998999974999
+      }
+    }
+  },
+  "latency_ms_mean": 10.094115900011502,
+  "latency_samples": 20,
+  "hardware": {
+    "device": "cuda",
+    "gpu": "Tesla T4",
+    "python": "3.13.16",
+    "torch": "2.14.1+cu130"
+  },
+  "counts": {
+    "train": [
+      300,
+      300,
+      300,
+      300,
+      300
+    ],
+    "val": [
+      80,
+      80,
+      80,
+      80,
+      79
+    ],
+    "test": [
+      100,
+      100,
+      100,
+      100,
+      69
+    ]
+  },
+  "seed": 42,
+  "invalid_xml_or_images": 0
+}

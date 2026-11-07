@@ -1,0 +1,45 @@
+{
+  "Priority road": {
+    "precision": 1.0,
+    "recall": 0.99,
+    "f1-score": 0.9949748743718593,
+    "support": 100.0
+  },
+  "Give way": {
+    "precision": 0.9900990099009901,
+    "recall": 1.0,
+    "f1-score": 0.9950248756218906,
+    "support": 100.0
+  },
+  "Stop": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 100.0
+  },
+  "No entry": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 100.0
+  },
+  "Pedestrian crossing": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 69.0
+  },
+  "accuracy": 0.997867803837953,
+  "macro avg": {
+    "precision": 0.998019801980198,
+    "recall": 0.998,
+    "f1-score": 0.99799994999875,
+    "support": 469.0
+  },
+  "weighted avg": {
+    "precision": 0.9978889146910427,
+    "recall": 0.997867803837953,
+    "f1-score": 0.9978677505317164,
+    "support": 469.0
+  }
+}

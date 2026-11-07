@@ -1,0 +1,32 @@
+[
+  {
+    "source": "Main Road",
+    "code": "2.1",
+    "en": "Priority road",
+    "ru": "Главная дорога"
+  },
+  {
+    "source": "Give Way",
+    "code": "2.4",
+    "en": "Give way",
+    "ru": "Уступите дорогу"
+  },
+  {
+    "source": "STOP",
+    "code": "2.5",
+    "en": "Stop",
+    "ru": "Движение без остановки запрещено"
+  },
+  {
+    "source": "No Entry",
+    "code": "3.1",
+    "en": "No entry",
+    "ru": "Въезд запрещен"
+  },
+  {
+    "source": "Pedestrian Crossing",
+    "code": "5.16.1",
+    "en": "Pedestrian crossing",
+    "ru": "Пешеходный переход"
+  }
+]
